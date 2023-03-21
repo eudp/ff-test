@@ -17,3 +17,5 @@ Runs the app server.
 ### `npm run start-client`
 
 In another terminal runs the app client.
+
+If you have any questions or encounter any issues, please feel free to contact me at efraindiazp1@gmail.com.
